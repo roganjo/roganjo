@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there, I’m Jones Rogan D!
 
-<!--
-**roganjo/roganjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Electronics and Communication Engineering (ECE) student  
+🔧 Passionate about hardware, embedded systems, and DIY electronics  
+🚀 Exploring microcontrollers, PCB design, drones, and signal processing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+- 🛠️ Embedded: ESP32, Arduino,Raspberry pi
+- 🧰 Tools: KiCad, MATLAB, VS Code,
+- 💡 Skills: C/C++, Python, PCB Design, IoT, Control Systems
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=roganjo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roganjo&layout=compact&theme=tokyonight)
+
+---
+
+⚡ *Always building, always learning!*
